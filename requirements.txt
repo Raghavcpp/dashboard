@@ -1,3 +1,4 @@
+hvplot
 pandas
 numpy
 panel
